@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
-    
+    <div>
+      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner" />
+    </div>
   <br />
 
   <div>
